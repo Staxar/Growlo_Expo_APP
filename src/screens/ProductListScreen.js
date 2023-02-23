@@ -1,5 +1,11 @@
+import { Text, View } from "react-native";
+
 function ProductListScreen() {
-  return;
+  return (
+    <View>
+      <Text>ProductListScreen</Text>
+    </View>
+  );
 }
 
 export default ProductListScreen;
